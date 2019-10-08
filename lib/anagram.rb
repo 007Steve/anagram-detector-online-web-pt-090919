@@ -6,7 +6,7 @@ class Anagram
   @word = word
 end
   
-  def self.match 
+  def match 
     self. each do |match|
       
   end
